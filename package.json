@@ -1,0 +1,17 @@
+{
+  "name": "lz_taf",
+  "version": "1.0.0",
+  "description": "SauceLab connection Tests",
+  "main": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^79.0.0",
+    "nightwatch": "^1.2.2",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {
+    "devenv": "^1.0.1",
+    "saucelabs": "^2.3.0"
+  }
+}
